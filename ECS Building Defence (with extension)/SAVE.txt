@@ -1,0 +1,4 @@
+4,20,easy.txt,50
+120,17
+CsStudent,1,2;AiStudent,1,3; 
+ConcurrentModificationBug,Sephiroth,1,0,1,20;NoneTerminationBug,Ultimecia,1,5,1,200;
